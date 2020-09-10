@@ -1,7 +1,8 @@
 # VAS-Automation
-Analysis automation, post processing, and results tool for abaqus use
+Analysis automation, post processing, and results tool for abaqus use.
 
-initial repo for VAS tool.
+Initial repo for VAS tool.
+
 Contains 3 files:
   1. inUtil.py - main file. Input data and dictionary for multiple cases.
   1.1. pre-processing file for defined input variables.
